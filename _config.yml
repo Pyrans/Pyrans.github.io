@@ -45,8 +45,8 @@ highlight:
 
 #### Markdown Processors
 ## 'redcarpet' is unsupported on GitHub Pages now.
-markdown: typora
-typora:
+markdown: kramdown
+kramdown:
     input: GFM
 
 # Default Attributes
