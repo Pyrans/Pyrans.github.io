@@ -551,13 +551,6 @@ calendar:
   maxResults: 250
 
 
-search:
-  path: search.xml
-  field: post
-  format: html
-  limit: 10000
-
-
 # Algolia Search
 algolia_search:
   enable: false
