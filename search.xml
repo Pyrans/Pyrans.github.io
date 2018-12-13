@@ -3,7 +3,6 @@ layout: null
 sitemap: false
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<html>
 <search>
   {% for post in site.posts %}
     <entry>
@@ -24,4 +23,3 @@ sitemap: false
     </entry>
   {% endfor %}
 </search>
-  </html>
