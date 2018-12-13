@@ -1,11 +1,11 @@
-﻿---
+---
 title: 使用python代码操作数据库
-description: 远端使用python操作数据库
 date: 2018-10-13
 author: Pyrans
 categories: 数据库
 tags:
     - mysql
+    - python
 ---
 
 
