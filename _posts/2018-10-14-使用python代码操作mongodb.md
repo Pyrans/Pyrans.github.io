@@ -1,7 +1,8 @@
 ---
 title: 使用python操作mongodb
 description: python远程操作mongodb
-date: 2018-10-14 20:29:53
+date: 2018-10-14
+author: Pyrans
 categories: 数据库
 tags:
     - mongodb

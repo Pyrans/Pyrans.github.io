@@ -1,7 +1,8 @@
 ---
 title: 会话&访问对象&abort
 description: flask中的会话,request与response对象,abort
-date: 2018-11-18 20:29:53
+date: 2018-11-18
+author: Pyrans
 categories: 框架
 tags:
     - flask
