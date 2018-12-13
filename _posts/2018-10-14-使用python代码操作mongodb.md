@@ -3,14 +3,14 @@ title: 使用python操作mongodb
 description: python远程操作mongodb
 date: 2018-10-14
 author: Pyrans
+categories: 数据库
 tags:
     - mongodb
-    - python
 ---
 
 
 
-## python连接MongoDB数据库--插入数据
+## PyCharm连接MongoDB数据库--插入数据
 
 	import pymongo
 	# host=None,  ip地址
@@ -23,7 +23,7 @@ tags:
 	mongoClient.close()
 
 
-## python连接MongoDB数据库--查询数据
+## PyCharm连接MongoDB数据库--查询数据
 	import pymongo
 	# host=None,
 	# port=None,
@@ -55,7 +55,7 @@ tags:
 
 
 
-## python连接MongoDB数据库--删除数据
+## PyCharm连接MongoDB数据库--删除数据
 	import pymongo
 	# host=None,
 	# port=None,
@@ -80,7 +80,7 @@ tags:
 
 
 
-## python连接MongoDB数据库--修改数据
+## PyCharm连接MongoDB数据库--修改数据
 	import pymongo
 	# host=None,
 	# port=None,
