@@ -1,11 +1,11 @@
 ---
-title: mysql开启远程连接
-date: 2018-10-13
-categories: 数据库
+title: centos安装virtualenvwrapper
+date: 2020-03-27
+categories: linux
 author: Pyrans
-description: 修改mysql配置&创建远程连接用户
+description: 为centos安装virtualenvwrapper工具
 tags:
-    - mysql
+    - linux
 ---
 
 使用pip安装，centos自带的python2.7似乎并不带有pip，这里我们首先安装一个pip:
