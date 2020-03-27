@@ -47,5 +47,5 @@ source /usr/bin/virtualenvwrapper.sh   # 这里输入virtualenvwrapper的路径�
 删除环境：rmvirtualenv 环境名称
 ~~~
 
-参考链接：<a href="https://www.jianshu.com/p/4fecadbc5a48">https://www.jianshu.com/p/4fecadbc5a48</a>
+参考链接：<a href="https://www.jianshu.com/p/4fecadbc5a48" target="_blank">https://www.jianshu.com/p/4fecadbc5a48</a>
 
